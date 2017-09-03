@@ -1,0 +1,13 @@
+name: SETVIP
+main: MCPEVN\SetVip
+version: 2.3
+api: 3.0.0
+author: MCPEVN TEAM
+description: VIP plugin by MCPEVN Team COPYRIGHT
+commands:
+  setvip:
+    description: set other player's vip status
+  removevip:
+    description: remove other player's vip status
+  voter:
+    description: remove other player's vip status
