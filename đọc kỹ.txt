@@ -2,6 +2,7 @@
 ░▒█░▒█░▒█░░▐█──▒▐█▄█░▐█▀▀░▒█▒█░▒▐█▒█▒█░     ░░▒█░░░▐█▀▀░▐█▄▄▐█░▒█░▒█░▒█░
 ▒▐█░░░░▒█▌░▐█▄█▒▐█░░░▐█▄▄░▒▀▄▀░▒██░▒██▌     ░▒▄█▄░░▐█▄▄░▐█─░▐█▒▐█░░░░▒█▌
 
+HỖ TRỢ CHẠY PLUGIN TỪ A->Z LIÊN HỆ: https://www.facebook.com/yagami.raito.2k
 <plugin của MCPEVN SERVER>
 <ip server: play.mcpevn.com>
 
